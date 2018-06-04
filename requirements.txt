@@ -1,0 +1,5 @@
+Flask
+Redis
+Pillow
+opencv-python
+pytesseract
